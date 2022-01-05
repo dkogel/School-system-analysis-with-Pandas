@@ -8,7 +8,7 @@ Here's an example DataFrame that was generated:
 
 
 
-To view the results please clone open the `main.py`
+To view the results please open the `main.py` notebook in the `PyCitySchools_DK_Work` folder. To view the data sources, please open the two csv files that can be found in `Instructions/PyCitySchools/Resources/`. 
 
   ---  
   
