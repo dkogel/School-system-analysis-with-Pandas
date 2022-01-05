@@ -3,7 +3,7 @@ The goal of this challenge was to aggregate sample data about a fictional school
 
 Here's an example DataFrame that was generated:
 
-
+![example_df](dataframe_screengrab.PNG)
 
 
 
