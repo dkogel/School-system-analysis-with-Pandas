@@ -1,8 +1,15 @@
 # pandas-challenge
-Practice with pandas and dataframes
+The goal of this challenge was to aggregate sample data about a fictional school system to provide performance metrics and possible drivers of those metrics such as budget, school type, and school size. This was accomplished using Pandas in a Jupyter notebook.  
+
+Here's an example DataFrame that was generated:
 
 
-  
+
+
+
+
+To view the results please clone open the `main.py`
+
   ---  
   
 Daniel Kogel  
