@@ -8,7 +8,16 @@ Here's an example DataFrame that was generated:
 
 
 
-To view the results please open the `main.py` notebook in the `PyCitySchools_DK_Work` folder. To view the data sources, please open the two csv files that can be found in `Instructions/PyCitySchools/Resources/`. 
+To view the results please follow the directions below: 
+(you must have python and jupyter notebooks installed)
+
+1. Clone this repo
+2. Open a Git Bash or Terminal window at the repo folder
+3. Type `jupyter notebook` and hit `enter`
+4. Open the `main.py` notebook 
+5. Select the `Cell` dropdown menu and the choose `Run All`
+
+To view the data sources, please open the two csv files that can be found in `Resources`. 
 
   ---  
   
