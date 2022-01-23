@@ -15,7 +15,7 @@ To view the results please follow the directions below:
 2. Open a Git Bash or Terminal window at the repo folder
 3. Type `jupyter notebook` and hit `enter`
 4. Open the `main.py` notebook 
-5. Select the `Cell` dropdown menu and the choose `Run All`
+5. Select the `Cell` dropdown menu and then choose `Run All`
 
 To view the data sources, please open the two csv files that can be found in `Resources`. 
 
